@@ -1,4 +1,6 @@
+![EnergyClass](Gfx/EnergyClass.png)
 
+<br>
 
 CoPilot's intro:
 
