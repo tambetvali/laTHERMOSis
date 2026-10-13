@@ -1,3 +1,7 @@
+![TimeHamiltonianDefinition](Gfx/TimeHamiltonianDefinition.png)
+
+<br>
+
 # Matter of Matter
 
 **Matters of Matter** are defined by **Energy**.
