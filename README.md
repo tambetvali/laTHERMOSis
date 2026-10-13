@@ -1,3 +1,5 @@
+![laTHERMOSis](Gfx/laTHERMOSis.png)
+
 # 🔥 laTHERMOSis
 
 Thermodynamic Laegna Terms.
